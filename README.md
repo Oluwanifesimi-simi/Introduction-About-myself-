@@ -3,7 +3,7 @@ A short story about myself and my journey as an Accountant and an aspiring Data 
 
 - 👋 Hi, I’m @Oluwanifesimi-simi
 - 👀 I’m interested in Accounting, Finance And Data 
-- 🌱 I’m currently learning Data Analysis & Macchine learning
+- 🌱 I’m currently learning Data Analysis & Machine learning
 - 💞️ I’m looking to collaborate on Data Project
 - 📫 How to reach me @ oluwanifesimi988@gmail.com 
 - 😄 Pronouns: she/her
